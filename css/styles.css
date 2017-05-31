@@ -5,3 +5,27 @@
 .card-show-js {
   display: none;
 }
+
+.card-show-var {
+  display: none;
+}
+
+.card-show-vnc {
+  display: none;
+}
+
+.card-show-func {
+  display: none;
+}
+
+.card-show-meth {
+  display: none;
+}
+
+.card-show-arg {
+  display: none;
+}
+
+.card-show-par {
+  display: none;
+}

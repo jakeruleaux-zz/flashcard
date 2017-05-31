@@ -1,3 +1,13 @@
+p {
+  text-align: center;
+  padding: 20px;
+  margin: 5px;
+}
+
+.card-hide-vnc {
+  font-size: 13px;
+}
+
 .card-show-ops {
   display: none;
 }
@@ -28,4 +38,52 @@
 
 .card-show-par {
   display: none;
+}
+
+.card-show-rtrn {
+  display: none;
+}
+
+.card-show-chain {
+  display: none;
+}
+
+.card-show-str {
+  display: none;
+}
+
+.card-show-boo {
+  display: none;
+}
+
+.card-show-und {
+  display: none;
+}
+
+.card-show-NaN {
+  display: none;
+}
+
+.card-show-esc {
+  display: none;
+}
+
+.card-show-alrt {
+  display: none;
+}
+
+.card-show-comm {
+  display: none;
+}
+
+.card-show-jqry {
+  display: none;
+}
+
+.card-show-attr {
+  display: none;
+}
+
+body {
+  background-image: url("img_card.jpg");
 }
